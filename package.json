@@ -1,5 +1,5 @@
 {
-  "name": "@tailwindjs/svelte-tailwindjs",
+  "name": "@afc/svelte-tailwind",
   "version": "0.1.0",
   "description": "Dynamic components for Tailwindcss and Svelte",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tailwindjs/svelte-tailwindjs.git"
+    "url": "git+https://github.com/afc-org/svelte-tailwind.git"
   },
   "keywords": [
     "svelte",
@@ -22,12 +22,15 @@
     "svelte-tailwind",
     "svelte-tailwindcss",
     "svelte-tailwindjs",
-    "tailwindjs"
+    "tailwindjs",
+    "afc-org",
+    "afc",
+    "@afc"
   ],
-  "author": "@tailwindjs",
+  "author": "afc-org",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tailwindjs/svelte-tailwindjs/issues"
+    "url": "https://github.com/afc-org/svelte-tailwind/issues"
   },
-  "homepage": "https://github.com/tailwindjs/svelte-tailwindjs#readme"
+  "homepage": "https://github.com/afc-org/svelte-tailwind#readme"
 }
