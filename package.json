@@ -1,5 +1,5 @@
 {
-  "name": "@afc/svelte-tailwind",
+  "name": "@afc-org/svelte-tailwind",
   "version": "0.1.0",
   "description": "Dynamic components for Tailwindcss and Svelte",
   "main": "index.js",
@@ -25,7 +25,7 @@
     "tailwindjs",
     "afc-org",
     "afc",
-    "@afc"
+    "@afc-org"
   ],
   "author": "afc-org",
   "license": "MIT",
